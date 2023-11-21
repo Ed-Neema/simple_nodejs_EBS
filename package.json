@@ -1,0 +1,14 @@
+{
+  "name": "simplenodejsebs",
+  "version": "1.0.0",
+  "description": "simple nodejs api for deployment to Elastic Bean Stalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ednah Akoth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
